@@ -1,0 +1,9 @@
+{
+  "name": "pranrakshak-root",
+  "version": "1.0.0",
+  "description": "PRANरक्षक Root Launcher",
+  "scripts": {
+    "start": "node PranRakshak/server.js",
+    "dev": "node PranRakshak/server.js"
+  }
+}
